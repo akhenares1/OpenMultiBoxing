@@ -9,9 +9,9 @@ REM How many wow to launch?
 set HOWMANY=5
 REM Where to find and which wow (classic, retail,...)
 REM Change for instance to _classic_
-set WOWDIR=C:\Program Files (x86)\World of Warcraft\_retail_
-REM Exe name: Wow.exe or WowClassic.exe
-set BIN=Wow.exe
+set WOWDIR=D:\MyGames\WoW_Basic\
+REM Exe name: Wow.exe or Tyrius.exe
+set BIN=Tyrius.exe
 REM Suffix, change if you want different team profiles
 set TEAM=WOB
 echo Will launch %HOWMANY% %BIN% in WOWDIR=%WOWDIR%
