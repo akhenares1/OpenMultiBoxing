@@ -16,7 +16,7 @@ cd Wow%1
 mklink /d Data ..\Wow\Data
 mklink /d Interface ..\Wow\Interface
 del Wow.exe
-mklink /h Wow.exe ..\Wow\Wow.exe
+mklink /h Wow.exe ..\Wow\Tyrius.exe
 mklink Battle.net.dll ..\Wow\Battle.net.dll
 mklink dbghelp.dll ..\Wow\dbghelp.dll
 mklink DivxDecoder.dll ..\Wow\DivxDecoder.dll
